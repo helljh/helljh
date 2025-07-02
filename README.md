@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **모두의 연구소 플러터 3기**
 
-- 👨‍💻 All of my projects are available at [노션 이력서]([https://shorthaired-sugar-46e.notion.site/02cac1f7115944cd9a67cb7b27c2555c](https://shorthaired-sugar-46e.notion.site/202c51a4c3de8024ae58c4ae97ac67d0))
+- 👨‍💻 All of my projects are available at ([노션 이력서](https://shorthaired-sugar-46e.notion.site/202c51a4c3de8024ae58c4ae97ac67d0))
 
 - 📫 How to reach me **junho308917@naver.com**
 
