@@ -81,7 +81,7 @@
 ## 🚀 프로젝트
 
 <details>
-<summary><strong>몽고 AI, 그로우잇, 쿼카 등 상세 프로젝트 펼치기</strong></summary>
+<summary><strong>프로젝트 펼치기</strong></summary>
 
 ### 1. 몽고 AI ([웹사이트](https://gitflow-exercise.github.io/MongoAI-web) / [깃허브](https://github.com/GitFlow-Exercise/MongoAI-web))
 - Flutter 웹 기반, AI 영어 변형 문제집 자동 생성 플랫폼, Supabase/PortOne 연동
@@ -90,7 +90,7 @@
 ### 2. 그로우잇 ([깃허브](https://github.com/7-umc-GrowIT/GrowIT-iOS))
 - Swift, UIKit 기반 AI 일기장, 커스텀 캘린더(DateComponents) 제작, Test Flight 배포
 
-### 3. 그로우잇 ([깃허브](https://github.com/7-umc-GrowIT/GrowIT-iOS))
+### 3. 런지 ([깃허브](https://github.com/UMC-7th-Hackathon-M-Team/LunZh-iOS))
 - Swift, 점심 메뉴 선정 도우미, 그룹 생성 및 게임 결과 담당
 
 ### 3. 쿼카 ([깃허브](https://github.com/idle-quocar/QuoCar))
