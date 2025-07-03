@@ -69,8 +69,8 @@
 
 ## 📱 출시 앱
 
-### [MVP - 기억력 게임](https://apps.apple.com/kr/app/%EC%98%A4%EB%8A%98%EC%9D%98-mvp/id6747583630)
-- 다양한 기억력 게임(숫자, 색상, 경로) 제공  
+### [MVP - 기억력 향상 게임](https://apps.apple.com/kr/app/%EC%98%A4%EB%8A%98%EC%9D%98-mvp/id6747583630)
+- 다양한 종류(숫자, 색상, 경로)의 게임 제공  
 - [깃허브](https://github.com/helljh/Flutter-MVP)
 - **주요 기능:** Provider 기반 게임 상태 관리, 게임별 격자판 UI 제작, 애니메이션 구현 등  
 - **기술:** Flutter, Provider, Freezed, GoRouter  
@@ -89,6 +89,9 @@
 
 ### 2. 그로우잇 ([깃허브](https://github.com/7-umc-GrowIT/GrowIT-iOS))
 - Swift, UIKit 기반 AI 일기장, 커스텀 캘린더(DateComponents) 제작, Test Flight 배포
+
+### 3. 그로우잇 ([깃허브](https://github.com/7-umc-GrowIT/GrowIT-iOS))
+- Swift, 점심 메뉴 선정 도우미, 그룹 생성 및 게임 결과 담당
 
 ### 3. 쿼카 ([깃허브](https://github.com/idle-quocar/QuoCar))
 - Flutter 앱, 지도 기반 주차장 예약, 실시간 예약 및 결제, FCM 푸시알림
